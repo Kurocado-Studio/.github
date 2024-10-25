@@ -1,42 +1,23 @@
-name: Prettier Code Formatter
+name: CI/CD Pipeline
+
+permissions:
+  contents: write
+  id-token: write
+  pages: write
+  pull-requests: write
 
 on:
+  pull_request:
   push:
     branches:
       - main
-  pull_request:
 
 jobs:
-  prettier:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-        with:
-          ref: ${{ github.head_ref }}
-
-      -  name: Create .prettierrc.yaml
-         uses: 1arp/create-a-file-action@0.4.5
-         with:
-           path: '/'
-           isAbsolutePath: false
-           file: '.prettierrc.yaml'
-           content: |
-             overrides:
-               - files:
-                 - "*.md" 
-                 options:
-                   parser: "markdown"
-                   printWidth: 100
-                   proseWrap: "always"
-
-      - name: Prettify code
-        uses: creyD/prettier_action@v4.3
-        with:
-          prettier_options: --write --config .prettierrc.yaml
-          only_changed: true
-          commit_message: 'chore(config): prettied code'
-
   lint:
     uses: kurocado-studio/styleguide/.github/workflows/workflow.lint.yml@main
+    secrets: inherit
+
+  document:
+    needs: lint
+    uses: kurocado-studio/styleguide/.github/workflows/workflow.document.yml@main
     secrets: inherit

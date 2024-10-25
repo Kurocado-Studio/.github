@@ -1,0 +1,22 @@
+{
+  "name": ".github",
+  "version": "0.0.0-semantically-released",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "commitlint": "pnpm exec commitlint --edit",
+    "eslint-check": "eslint --max-warnings=0 .",
+    "prepare": "husky install",
+    "prettier-check": "prettier --check .",
+    "prettier-fix": "prettier --check . --write",
+    "semantic-release": "semantic-release",
+    "test": "echo \"no test specified\" && exit 0",
+    "build": "echo \"no build needed\" && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@kurocado-studio/styleguide": "^1.2.0"
+  }
+}
