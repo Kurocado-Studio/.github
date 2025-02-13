@@ -8,6 +8,5 @@ on:
 
 jobs:
   lint:
-    uses: kurocado-studio/dev-ops/.github/workflows/workflow.lint.yml@main
+    uses: kurocado-studio/dev-ops/.github/workflows/workflow.lint-format.yml@main
     secrets: inherit
-
