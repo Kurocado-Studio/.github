@@ -48,7 +48,6 @@ elsewhere):
 2. **Iterative & Agile** – Frequent check-ins, flexible scope control.
 3. **UX-Driven** – Every design choice revolves around real user needs.
 4. **Cutting-Edge Tech** – 3D, interactive visuals, modern frameworks.
-5. **Security & Compliance** – GitHub Enterprise with advanced security measures.
 
 ## Let’s Connect
 
