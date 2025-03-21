@@ -1,58 +1,60 @@
-> **“Many organizations, especially startups, struggle to achieve seamless, efficient software
-> development when working with traditional web development shops—models that hinder innovation and
-> financial planning.”**
+**“Many startups and growing teams find traditional web development models restrictive—often
+complicating innovation and predictable budgeting.”**
 
-## Who I Am
+## A bit about me
 
-I’m Carlos Santiago, founder of **Kurocado Studio**. I operate as a **freelance studio** focused on
-transparent, modular, and user-centric software development. My goal is to solve common pitfalls in
-web projects—from scope creep to missed deadlines—so that startups and growing teams can move
-forward with confidence.
+Hey, I'm Carlos Santiago, founder of **Kurocado Studio**. I run my own freelance studio specializing
+in transparent, modular, and user-focused software development. My main goal is to tackle the usual
+headaches that plague web projects—things like scope creep, vague timelines, and unclear costs—so
+startups and growing businesses can confidently move forward.
 
-## Problem Statement
+## What I'm solving
 
-Traditional development shops often:
+You've probably experienced or at least seen how traditional dev agencies tend to:
 
-- Allow **scope creep** without clear communication.
-- Rely on **hourly retainers** that complicate tight budgets.
-- Lack **transparent billing**, fostering mistrust.
-- Miss **critical deadlines**, stalling growth.
-- Deliver **overengineered** or **under-delivered** solutions.
+- Let **scope creep** run wild without clear communication.
+- Depend heavily on **hourly retainers**, complicating budgets.
+- Provide **opaque billing**, causing mistrust.
+- Consistently miss **key deadlines**, hurting business momentum.
+- Deliver solutions that are either **overengineered** or fall short of expectations.
 
-I’ve structured Kurocado Studio to address these challenges, especially for businesses operating on
-limited resources who need **practical, user-driven** solutions.
+I structured Kurocado Studio specifically to tackle these issues head-on, especially for businesses
+with tighter budgets needing practical and effective solutions:
 
-- **Transparency & Flexibility** – Offering clear project scopes, predictable budgets, and the
-  option to pivot without penalty.
-- **Structured Project Management** – A modular, agile-aligned process that ensures accountability
-  and continuous improvement.
+- **Transparency & Flexibility** – Clear project scopes upfront, predictable budgets, and freedom to
+  pivot when needed.
+- **Effective Project Management** – A modular, agile-friendly approach that maintains
+  accountability and ensures continuous improvement.
 
-Together, these strategies enhance **budget certainty**, **project control**, and **UX-driven
-outcomes**—everything growing businesses need to innovate without the usual headaches.
+This approach ultimately gives clients better **budget clarity**, stronger **project control**, and
+ensures **user-friendly results**—everything growing businesses need to innovate without unnecessary
+friction.
 
-## Target Market
+## Who I'm working with
 
-I primarily serve **four key segments** in Chicago (though I’m open to working with clients
-elsewhere):
+I primarily focus on **four groups** in the Chicago area (though remote partnerships are always
+welcome):
 
-1. **Startup Founders** – Need agile development and user-driven MVPs to secure funding and grow
-   fast.
-2. **Small Business Owners** – Want digital upgrades and e-commerce solutions without hidden costs.
-3. **Web & Marketing Agency Recruiters** – Seek specialized dev or UX support for niche projects.
-4. **Technical Managers** – Look to outsource specialized tasks or modernize legacy systems
-   securely.
+1. **Startup Founders** – Looking for user-centered MVPs and agile approaches to secure funding and
+   scale quickly.
+2. **Small Business Owners** – Seeking straightforward digital transformations and cost-effective
+   e-commerce solutions.
+3. **Web & Marketing Agencies** – Requiring specialized dev or UX skills for unique projects.
+4. **Technical Managers** – Outsourcing specialized tasks or updating legacy systems with modern,
+   secure code.
 
-## Why Work With Me?
+## Why collaborate with me?
 
-1. **Budget Transparency** – Itemized proposals, no hidden fees.
-2. **Iterative & Agile** – Frequent check-ins, flexible scope control.
-3. **UX-Driven** – Every design choice revolves around real user needs.
-4. **Cutting-Edge Tech** – 3D, interactive visuals, modern frameworks.
+1. **Budget Clarity** – Clear, itemized proposals, no hidden surprises.
+2. **Iterative & Agile** – Regular check-ins and flexibility in scope.
+3. **UX-Centric Design** – Every decision revolves around actual user needs.
+4. **Modern Tech Stack** – Skilled with interactive visuals, 3D tech like Three.js, and frameworks
+   like Remix, React, NestJS, and advanced TypeScript best practices.
 
-## Let’s Connect
+## Let's talk
 
-If you’re looking for a **freelance partner** who prioritizes clarity, user-centric design, and
-reliable delivery, I’m here to help.
+If you're looking for a freelance partner who emphasizes clarity, practical UX design, and reliable
+project delivery—I'd love to chat.
 
 - **Email:** hello@kurocado.studio
 - **LinkedIn:** https://www.linkedin.com/in/carlos-e-santiago/
