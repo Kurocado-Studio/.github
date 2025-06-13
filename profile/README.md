@@ -37,6 +37,8 @@ If you're a hiring manager looking for a front-end engineer with strong product 
 startup in need of fast, thoughtful prototyping — I’d love to connect. I bring a cross-functional
 mindset shaped by hands-on experience in design, development, and systems thinking.
 
-Feel free to explore the repos or reach out directly: • Email:
-[hello@kurocado.studio](mailto:hello@kurocado.studio) • LinkedIn:
-[https://www.linkedin.com/in/carlos-e-santiago/](https://www.linkedin.com/in/carlos-e-santiago/)
+Feel free to explore the repos or reach out directly:
+
+- Email: [hello@kurocado.studio](mailto:hello@kurocado.studio)
+- LinkedIn:
+  [https://www.linkedin.com/in/carlos-e-santiago/](https://www.linkedin.com/in/carlos-e-santiago/)
