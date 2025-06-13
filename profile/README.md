@@ -1,60 +1,42 @@
-**“Many startups and growing teams find traditional web development models restrictive—often
-complicating innovation and predictable budgeting.”**
+# Welcome!
 
-## A bit about me
+I'm Carlos Santiago — a Front-End Engineer with 7+ years of experience across engineering and
+product design. I started in UX/UI for enterprise and consumer brands, then transitioned into
+building scalable, performant web apps. I focus on product design, design systems, front-end
+architecture, and building with React and TypeScript.
 
-Hey, I'm Carlos Santiago, founder of **Kurocado Studio**. I run my own freelance studio specializing
-in transparent, modular, and user-focused software development. My main goal is to tackle the usual
-headaches that plague web projects—things like scope creep, vague timelines, and unclear costs—so
-startups and growing businesses can confidently move forward.
+**Kurocado Studio** serves as a hands-on environment where I explore the full product development
+lifecycle — applying design, engineering, and product strategy, shaped by my master’s in business
+management and real-world UX/front-end engineering practice.
 
-## What I'm solving
+While I’m actively exploring full-time opportunities, this space helps me stay sharp: I run small
+projects like products, apply my business background, and experiment through Daily UI challenges,
+React/TypeScript builds, and design system work.
 
-You've probably experienced or at least seen how traditional dev agencies tend to:
+### Featured Projects
 
-- Let **scope creep** run wild without clear communication.
-- Depend heavily on **hourly retainers**, complicating budgets.
-- Provide **opaque billing**, causing mistrust.
-- Consistently miss **key deadlines**, hurting business momentum.
-- Deliver solutions that are either **overengineered** or fall short of expectations.
+**[Kurocado Studio Platform](https://github.com/Kurocado-Studio/platform)** A modular TypeScript
+platform that powers reusable CI/CD pipelines, testing, identity access management, and developer
+tooling. Built for fast product prototyping with production-level scaffolding.
 
-I structured Kurocado Studio specifically to tackle these issues head-on, especially for businesses
-with tighter budgets needing practical and effective solutions:
+**[Daily UI Challenge](https://github.com/Kurocado-Studio/daily-ui)** A curated collection of daily
+UI challenges implemented in both React and Vue. Designed to practice product thinking, interaction
+patterns, and accessibility-first implementation.
 
-- **Transparency & Flexibility** – Clear project scopes upfront, predictable budgets, and freedom to
-  pivot when needed.
-- **Effective Project Management** – A modular, agile-friendly approach that maintains
-  accountability and ensures continuous improvement.
+**[Figma to Framework](https://github.com/Kurocado-Studio/figma-to-framework)** A token-driven UI
+library whose look and feel can be updated in Figma and propagated—via Token Studio—into live React
+and Vue components. Built for design system scalability and true design-to-code workflows.
 
-This approach ultimately gives clients better **budget clarity**, stronger **project control**, and
-ensures **user-friendly results**—everything growing businesses need to innovate without unnecessary
-friction.
+**[Engineering Styleguide](https://github.com/Kurocado-Studio/styleguide)** A shared style guide for
+standardizing linting, formatting, and commit conventions across studio and client projects. Enables
+consistency, contributor alignment, and smoother onboarding.
 
-## Who I'm working with
+### Let's Talk
 
-I primarily focus on **four groups** in the Chicago area (though remote partnerships are always
-welcome):
+If you're a hiring manager looking for a front-end engineer with strong product instincts — or a
+startup in need of fast, thoughtful prototyping — I’d love to connect. I bring a cross-functional
+mindset shaped by hands-on experience in design, development, and systems thinking.
 
-1. **Startup Founders** – Looking for user-centered MVPs and agile approaches to secure funding and
-   scale quickly.
-2. **Small Business Owners** – Seeking straightforward digital transformations and cost-effective
-   e-commerce solutions.
-3. **Web & Marketing Agencies** – Requiring specialized dev or UX skills for unique projects.
-4. **Technical Managers** – Outsourcing specialized tasks or updating legacy systems with modern,
-   secure code.
-
-## Why collaborate with me?
-
-1. **Budget Clarity** – Clear, itemized proposals, no hidden surprises.
-2. **Iterative & Agile** – Regular check-ins and flexibility in scope.
-3. **UX-Centric Design** – Every decision revolves around actual user needs.
-4. **Modern Tech Stack** – Skilled with interactive visuals, 3D tech like Three.js, and frameworks
-   like Remix, React, NestJS, and advanced TypeScript best practices.
-
-## Let's talk
-
-If you're looking for a freelance partner who emphasizes clarity, practical UX design, and reliable
-project delivery—I'd love to chat.
-
-- **Email:** hello@kurocado.studio
-- **LinkedIn:** https://www.linkedin.com/in/carlos-e-santiago/
+Feel free to explore the repos or reach out directly: • Email:
+[hello@kurocado.studio](mailto:hello@kurocado.studio) • LinkedIn:
+[https://www.linkedin.com/in/carlos-e-santiago/](https://www.linkedin.com/in/carlos-e-santiago/)
