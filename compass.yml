@@ -1,0 +1,18 @@
+name: .github
+id: ari:cloud:compass:bd0a3342-915f-4b2e-9c6f-c1004471898b:component/cd70f7d9-4b7b-4cf5-bcc9-02e9815145d9/989f9819-327f-416b-88ab-e5cfd16f1f88
+description: null
+configVersion: 1
+typeId: SERVICE
+ownerId: ari:cloud:identity::team/05e9da6b-a25f-45c0-bf32-bbf6e1d1bd7e
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Kurocado-Studio/.github
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:javascript
+  - source:github
+customFields: null
